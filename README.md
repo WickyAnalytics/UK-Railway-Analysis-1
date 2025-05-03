@@ -4,6 +4,121 @@ A complete end-to-end project for data cleaning, modeling, analysis, and forecas
 
 ---
 
+<h2>🚀 Interactive Dashboards</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="55%" align="center">
+        <h3>Tableau Dashboard</h3>
+        <a href="https://public.tableau.com/app/profile/sara.samy7501/viz/shared/RH2PBHK6W" target="_blank">
+          <img src="https://github.com/user-attachments/assets/d0fe2392-35b7-4d03-a3fd-3fdde14dd6c3" 
+               alt="Tableau Dashboard" 
+               height="200"
+               width="400">
+        </a>
+        <p><a href="https://public.tableau.com/app/profile/sara.samy7501/viz/shared/RH2PBHK6W" target="_blank">Explore Tableau Dashboard →</a></p>
+      </td>
+      <td width="55%" align="center">
+        <h3>Power BI Dashboard</h3>
+        <a href="https://app.powerbi.com/groups/me/reports/c3118463-ff83-4667-9bfe-477e52daf646/f7afb5e55aa9d83fe077?experience=power-bi" target="_blank">
+          <img src="https://github.com/user-attachments/assets/0f338002-ad1c-4c91-8d33-94d68e78bd6d" 
+               alt="Power BI Dashboard"
+               height="200"
+               width="400">
+        </a>
+        <p><a href="https://app.powerbi.com/groups/me/reports/c3118463-ff83-4667-9bfe-477e52daf646/f7afb5e55aa9d83fe077?experience=power-bi" target="_blank">Explore Power BI Dashboard →</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4>Key Features:</h4>
+        <ul>
+          <li>Real-time passenger flow analysis</li>
+          <li>Revenue and refund tracking</li>
+          <li>Route performance metrics</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h4>Key Features:</h4>
+        <ul>
+          <li>Detailed operational analytics</li>
+          <li>Interactive filtering capabilities</li>
+          <li>Delay reason breakdowns</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4>Technical Highlights:</h4>
+        <ul>
+          <li>Parameter-driven views</li>
+          <li>Advanced calculations</li>
+          <li>Mobile-responsive design</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h4>Technical Highlights:</h4>
+        <ul>
+          <li>DAX measures</li>
+          <li>Custom tooltips</li>
+          <li>Bookmark navigation</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<details>
+  <summary><h3>📸 Dashboard Screenshots</h3></summary>  
+  <h4>Tableau Dashboards</h4>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin: 20px 0;">
+    <img src="https://github.com/user-attachments/assets/d83ced7f-93a1-4296-a5c8-130569d62f90" 
+         alt="Passenger Analysis" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/340ad098-a275-4a1b-a1f5-bfa72f569808" 
+         alt="Passenger Analysis" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/2eedcb19-5714-4a78-bb6a-a6d23b497c1d" 
+         alt="Revenue Analysis" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/24655880-a69d-4d1a-9a4b-dd81f04c8387" 
+         alt="Route Performance" 
+         style="width: 49%; border-radius: 4px;">
+  </div>
+
+  <h4>Power BI Dashboards</h4>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin: 20px 0;">
+    <img src="https://github.com/user-attachments/assets/1dcfa3ac-6a95-49db-9717-5a19a319a4e1" 
+         alt="PowerBI Analysis 1" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/d5b3e980-a280-4d83-9c3c-9bdc550611ff" 
+         alt="PowerBI Analysis 2" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/0700fc0c-bd6d-47d2-a4e7-2215479fbf93" 
+         alt="PowerBI Analysis 1" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/d9d73e3a-f7f4-4332-b5a1-047977b5d762" 1
+         alt="PowerBI Analysis 2" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/da9dc6b9-dd3c-42d6-970a-add8e20d4f0f" 
+         alt="PowerBI Analysis 3" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/63bf2d78-cec9-452c-acd1-79ed4c68c8e1" 
+         alt="PowerBI Analysis 3" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/60b192e1-f5d7-4a91-a011-3682a2258543" 
+         alt="PowerBI Analysis 3" 
+         style="width: 49%; border-radius: 4px;">
+    <img src="https://github.com/user-attachments/assets/c7b29a1c-48ac-4c25-95ee-7cbb75d84f7f" 
+         alt="PowerBI Analysis 3" 
+         style="width: 49%; border-radius: 4px;">
+  </div>
+</details>
+
+---
+
 ## 📌 Overview
 
 This project was developed as part of the **Digital Egypt Pioneers Initiative (DEPI)** under the **Google Data Analytics Specialist Track**. It showcases the full pipeline from data ingestion to forecasting.
